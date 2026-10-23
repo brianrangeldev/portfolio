@@ -4,13 +4,14 @@
 
 @theme {
   --font-sans: "Geist", sans-serif;
-  --font-serif: "Space Grotesk", sans-serif;
-  --color-bg: #050505;
-  --color-surface: #0f0f0f;
-  --color-accent: #3b82f6;
-  --color-text-main: #ffffff;
-  --color-text-dim: rgba(255, 255, 255, 0.6);
-  --color-border-dim: rgba(255, 255, 255, 0.1);
+  --font-serif: "Instrument Serif", serif;
+  --color-bg: #f4f1ea;
+  --color-surface: #ebe6db;
+  --color-ink: #141414;
+  --color-accent: #1f3a5f;
+  --color-text-main: #141414;
+  --color-text-dim: rgba(20, 20, 20, 0.55);
+  --color-border-dim: rgba(20, 20, 20, 0.12);
 }
 
 @layer base {
